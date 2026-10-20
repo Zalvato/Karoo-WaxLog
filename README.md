@@ -97,6 +97,13 @@ while the chain's total distance stays recorded in its history. When you swap th
 you put on in WaxLog and tap *Activate* – from then on the distance counts for it, and the one you took off waits
 until it's its turn again.
 
+## Privacy
+
+WaxLog keeps its data on your Karoo and sends it nowhere. It goes online only to check GitHub for updates. While
+the *Transfer* page is open, it serves a page on your Wi-Fi, protected by a 4-digit code – it stops as soon as you
+leave the page. During a ride it writes the active chain's distance into the ride's FIT file, so that value travels
+wherever your Karoo uploads the ride.
+
 ## Questions and problems
 
 Found a bug or have an idea? Please open an [issue](https://github.com/Zalvato/Karoo-WaxLog/issues).
@@ -203,6 +210,13 @@ Hast du eine Kette gewachst, tippe in ihrer Historie auf *Gewachst* – die Kilo
 wieder bei 0, die gesamte Laufleistung der Kette bleibt in der Historie erhalten. Wechselst du am Bike die Kette, öffne
 in WaxLog die Kette, die du aufziehst, und tippe auf *Aktivieren* – ab dann zählen die Kilometer für sie, und die
 abgenommene Kette wartet, bis sie wieder dran ist.
+
+### Datenschutz
+
+WaxLog speichert seine Daten auf deinem Karoo und schickt sie nirgendwohin. Online geht es nur, um auf GitHub nach
+Updates zu suchen. Solange die Seite *Übertragen* offen ist, stellt es im WLAN eine Seite bereit, geschützt durch einen
+vierstelligen Code – sobald du die Seite verlässt, ist sie weg. Während einer Fahrt schreibt es den Kilometerstand der
+aktiven Kette in die FIT-Datei der Fahrt; dieser Wert geht also mit, wohin dein Karoo die Fahrt hochlädt.
 
 ### Fragen und Probleme
 
