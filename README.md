@@ -70,7 +70,8 @@ nothing).
 Made for the **Karoo 3** (tested there).
 
 1. On your phone, open the [latest release](https://github.com/Zalvato/Karoo-WaxLog/releases/latest).
-2. Long-press **WaxLog-x.y.apk** and share the link with the **Hammerhead Companion app**.
+2. Long-press **WaxLog-x.y.apk** and share the link with the **Hammerhead Companion app**. The Karoo downloads the APK
+   itself, so it needs internet – Wi-Fi or your phone's hotspot.
 3. The Karoo installs WaxLog. You'll find it under *Extensions*.
 
 **Updates:** WaxLog updates itself – never during a ride. For that it needs your permission once: in WaxLog under
@@ -183,7 +184,8 @@ weit es darüber ist. Bei *WaxLog* zeigen Balken und Tropfen die Farbe, bei *Wax
 Für den **Karoo 3** (dort getestet).
 
 1. Öffne auf dem Handy die [neueste Version](https://github.com/Zalvato/Karoo-WaxLog/releases/latest).
-2. Drücke lange auf **WaxLog-x.y.apk** und teile den Link mit der **Hammerhead-Companion-App**.
+2. Drücke lange auf **WaxLog-x.y.apk** und teile den Link mit der **Hammerhead-Companion-App**. Der Karoo lädt die APK
+   selbst herunter und braucht dafür Internet – WLAN oder den Hotspot deines Handys.
 3. Der Karoo installiert WaxLog. Du findest es danach unter *Erweiterungen*.
 
 **Updates:** WaxLog aktualisiert sich von selbst – nie während einer Fahrt. Dafür braucht es einmalig deine
