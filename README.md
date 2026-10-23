@@ -109,7 +109,9 @@ wherever your Karoo uploads the ride.
 
 Found a bug or have an idea? Please open an [issue](https://github.com/Zalvato/Karoo-WaxLog/issues).
 
-Enjoying WaxLog? If you like, you can [buy me a coffee](https://buymeacoffee.com/zalvato).
+Enjoying WaxLog?
+
+<a href="https://buymeacoffee.com/zalvato"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
 
 <sub>WaxLog is free. Use it at your own risk – the distances and warnings are a help, but don't replace looking at your
 chain yourself.</sub>
@@ -227,7 +229,9 @@ aktiven Kette in die FIT-Datei der Fahrt; dieser Wert geht also mit, wohin dein 
 Einen Fehler gefunden oder eine Idee? Gern als [Issue](https://github.com/Zalvato/Karoo-WaxLog/issues) melden –
 auch auf Deutsch.
 
-Gefällt dir WaxLog? Wenn du magst, kannst du mir [einen Kaffee ausgeben](https://buymeacoffee.com/zalvato).
+Gefällt dir WaxLog?
+
+<a href="https://buymeacoffee.com/zalvato"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
 
 <sub>WaxLog ist kostenlos. Die Nutzung erfolgt ohne Gewähr – die Kilometer und Warnungen sind eine Hilfe, ersetzen aber
 nicht den eigenen Blick auf die Kette.</sub>
